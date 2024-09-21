@@ -14,3 +14,5 @@ project_root/
   └── main.py
   └── words.txt <- list of about 500k words
 ```
+
+Clone repo
